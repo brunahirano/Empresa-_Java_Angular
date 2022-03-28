@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"soulCode.empresa"},{"l":"soulCode.empresa.controllers"},{"l":"soulCode.empresa.controllers.exceptions"},{"l":"soulCode.empresa.models"},{"l":"soulCode.empresa.repositories"},{"l":"soulCode.empresa.services"},{"l":"soulCode.empresa.services.exceptions"},{"l":"soulCode.empresa.utils"}]

@@ -1,0 +1,8 @@
+soulCode.empresa
+soulCode.empresa.controllers
+soulCode.empresa.controllers.exceptions
+soulCode.empresa.models
+soulCode.empresa.repositories
+soulCode.empresa.services
+soulCode.empresa.services.exceptions
+soulCode.empresa.utils

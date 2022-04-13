@@ -103,10 +103,7 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy",
-          "options": {
-            "baseHref": "/Empresa-_Java_Angular/"
-          }
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
